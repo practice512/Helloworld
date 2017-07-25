@@ -1,4 +1,2 @@
 # Helloworld
-Github learning session
-
-New to Github
+Hello world is a repository and creating new branch under this repsitory
